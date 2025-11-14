@@ -8,8 +8,12 @@
 </div>
 
 <!-- Cool Animated Banner -->
-<p align="center" style="margin: 20; padding: Hancock;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEydjRtbnI4eWJ2dWp6eHBlYWFvNWNwdGpuZDBuZHZpeHFyNzBhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpzXiMDrj4qi32gein/giphy.gif" alt="Cool animated banner" style="width: 130vw; max-height: 100px; object-fit: contain;" />
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEydjRtbnI4eWJ2dWp6eHBlYWFvNWNwdGpuZDBuZHZpeHFyNzBhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpzXiMDrj4qi32gein/giphy.gif"
+    alt="Cool animated banner"
+    width="100%"
+  />
 </p>
 
 
