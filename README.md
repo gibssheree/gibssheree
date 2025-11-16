@@ -24,6 +24,6 @@
 {
   "name": "Gilbert Sambow",
   "title": "Lazy Programmer",
-  "codes": ["JavaScript", "Python", "C"],
+  "codes": ["JavaScript", "Python", "C", "Typescript", "SQL"],
   "frameworks": ["ReactJS", "React Native", "Tailwind", "others"]
 }
